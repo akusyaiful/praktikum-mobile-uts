@@ -1,0 +1,7 @@
+#Thu Nov 19 16:34:14 WIB 2026
+base.1=/Users/muhammadsyaifullah/Documents/Unimus/Smt 5/Pemrograman Berbasis Mobile/Praktikum UTS/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+path.1=5/classes.dex
+base.0=/Users/muhammadsyaifullah/Documents/Unimus/Smt 5/Pemrograman Berbasis Mobile/Praktikum UTS/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

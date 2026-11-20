@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+id btnHitung
+id btnReset
+id etJumlah
+id etNama
+id etPembayaran
+id rbDosen
+id rbEksternal
+id rbInternal
+id rbUmum
+id rgKategori
+id tvHasil
+layout activity_main

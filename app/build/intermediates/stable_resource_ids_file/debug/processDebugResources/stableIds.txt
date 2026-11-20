@@ -1,0 +1,12 @@
+com.uts.pemesanantiket:layout/activity_main = 0x7f020000
+com.uts.pemesanantiket:id/tvHasil = 0x7f01000a
+com.uts.pemesanantiket:id/rgKategori = 0x7f010009
+com.uts.pemesanantiket:id/rbUmum = 0x7f010008
+com.uts.pemesanantiket:id/etPembayaran = 0x7f010004
+com.uts.pemesanantiket:id/rbInternal = 0x7f010007
+com.uts.pemesanantiket:id/rbEksternal = 0x7f010006
+com.uts.pemesanantiket:id/rbDosen = 0x7f010005
+com.uts.pemesanantiket:id/etNama = 0x7f010003
+com.uts.pemesanantiket:id/btnReset = 0x7f010001
+com.uts.pemesanantiket:id/etJumlah = 0x7f010002
+com.uts.pemesanantiket:id/btnHitung = 0x7f010000
